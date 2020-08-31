@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run serve port 8080
 ```
 
 ### Compiles and minifies for production
@@ -15,9 +15,9 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
+### Run node js server
 ```
-npm run test
+npm run dev (port 3000)
 ```
 
 ### Lints and fixes files
